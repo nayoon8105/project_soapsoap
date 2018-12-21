@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Sep 22 16:08:19 KST 2018
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1537600099850
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.commons\:commons-parent\:pom\:5 from/to central (https\://repo.maven.apache.org/maven2)\: C\:\\Users\\nayoo\\.m2\\repository\\org\\apache\\commons\\commons-parent\\5\\aether-673d8fa6-beb2-4bac-968f-b994e2177b11-commons-parent-5.pom-in-progress (\uC9C0\uC815\uB41C \uD30C\uC77C\uC744 \uCC3E\uC744 \uC218 \uC5C6\uC2B5\uB2C8\uB2E4)
